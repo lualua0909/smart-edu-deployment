@@ -1,0 +1,1 @@
+(this["webpackJsonpifa-learning-app"]=this["webpackJsonpifa-learning-app"]||[]).push([[29],{1635:function(n,a,e){"use strict";e.r(a);e(291);var t=e(297),i=e(1),r=e.n(i);a.default=function(){return r.a.createElement(r.a.Fragment,null,r.a.createElement(t.a,{title:"Coming Soon........"}))}}}]);

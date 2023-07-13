@@ -1,9 +1,0 @@
-/*!
-  Copyright (c) 2018 Jed Watson.
-  Licensed under the MIT License (MIT), see
-  http://jedwatson.github.io/classnames
-*/
-
-/*! LeaderLine v1.0.5 (c) anseki https://anseki.github.io/leader-line/ */
-
-//! moment.js locale configuration
